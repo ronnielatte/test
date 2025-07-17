@@ -3,3 +3,4 @@ api
 api/graphql
 graphql/api
 graphql/graphql
+api/logs
